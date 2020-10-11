@@ -1,7 +1,9 @@
 # Search algorithms
 ## Table of Contents
 *[General info](#general-info)
+
 *[Technologies](#technologies)
+
 *[Setup](#setup)
 
 ## General info
