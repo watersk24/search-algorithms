@@ -16,4 +16,4 @@ and smaller than all values in the right subtree.
 Binary Search Tree
 
 ## Setup
-Must provide a file with data to be searched. 
+No setup is required. This may be run in the console as a stand alone program.
