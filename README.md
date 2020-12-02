@@ -13,5 +13,7 @@ organizes data in a specific manner where the root node of the tree is larger th
 and smaller than all values in the right subtree.
 
 ## Technologies
+Binary Search Tree
 
 ## Setup
+Must provide a file with data to be searched. 
