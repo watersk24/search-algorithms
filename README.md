@@ -7,8 +7,8 @@
 *[Setup](#setup)
 
 ## General info
-This program implements a Binary Search Tree data type in different languages. As I learn new languages I am 
-working to implement concepts I learn in one language into other languages. So far I have implementation of a binary search tree in Java and Python.
+This repository holds implementations of a Binary Search Tree data type. As I learn new languages I am 
+working to implement the concepts I learn in one language into other languages. So far I have implementations in Java and Python.
 
 ## Technologies
 Binary Search Tree
