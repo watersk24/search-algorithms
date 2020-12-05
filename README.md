@@ -1,4 +1,4 @@
-# Python Search algorithms
+# Search algorithms
 ## Table of Contents
 *[General info](#general-info)
 
@@ -7,13 +7,11 @@
 *[Setup](#setup)
 
 ## General info
-This program implements a Binary Search Tree ADT. The structure of the Binary Search Tree is
-is the same as a Binary Tree. To utilize the Binary Tree as a method to search data, the Binary Search Tree
-organizes data in a specific manner where the root node of the tree is larger than all values in the left subtree
-and smaller than all values in the right subtree.
+This program implements a Binary Search Tree data type in different languages. As I learn new languages I am 
+working to implement concepts I learn in one language into other languages.
 
 ## Technologies
 Binary Search Tree
-
+concepts 
 ## Setup
 No setup is required. This may be run in the console as a stand alone program.
